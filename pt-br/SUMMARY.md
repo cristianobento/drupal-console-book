@@ -5,7 +5,7 @@
 * [O que é o Drupal Console](about/what-is-the-drupal-console.md)
   * [Porque você deveria se importar?](about/why-should-you-care-about.md)
   * [Como o Drupal Console ajuda?](about/how-does-drupal-console-help.md)
-  * [Onde eu encontro o projeto??](about/where-do-i-find-the-project.md)
+  * [Onde eu encontro o projeto?](about/where-do-i-find-the-project.md)
 
 * [Obtendo o projeto](getting/project.md)
   * [Utilizando o instalador](getting/installer.md)
@@ -20,7 +20,7 @@
   * [Como usar o Drupal Console em uma instalação remota](using/how-to-use-drupal-console-in-a-remote-installation.md)
 
 * [Comandos disponíveis](commands/available-commands.md)
-  {% include "./commands/available-commands-list.md" %}
+  {% include "./commands/available-commands-list.md" %}  
 
 * [Contribuindo para o Drupal Console](contributing/new-features.md)
    * [Requisitos de projeto](contributing/project-requirements.md)
