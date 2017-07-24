@@ -10,7 +10,7 @@
 * [Obtendo o projeto](getting/project.md)
   * [Utilizando o instalador](getting/installer.md)
   * [Utilizando o Composer](getting/composer.md)
-  * [Bair o arquivo phar](getting/download.md)
+  * [Baixar o arquivo phar](getting/download.md)
   * [Atualizar o projeto](getting/update.md)
   
 * [Utilizando o projeto](using/project.md)
