@@ -1,13 +1,13 @@
 # site:new
 Download a new Drupal project
 
-**Usage:**
+**Uso:**
 ```
 drupal site:new [options]
 ```
 
-## Available options
-Option | Details
+## Opciones disponibles
+Opción | Detalles
 -------|-------------
 --repository | repository
 --directory | directory
