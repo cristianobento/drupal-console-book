@@ -1,4 +1,4 @@
-# Project requirements
+# Requisitos do projeto
 
 ## Baixar Git
 Recomendamos o download do Git de [http://git-scm.com/downloads](http://git-scm.com/downloads)

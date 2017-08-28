@@ -12,5 +12,5 @@ http://hechoendrupal.gitbooks.io/drupal-console
 ## Chat de suporte
 https://gitter.im/hechoendrupal/DrupalConsole
 
-## Mai informações na página do projeto em Drupal.org
+## Mais informações na página do projeto em Drupal.org
 https://drupal.org/project/console
